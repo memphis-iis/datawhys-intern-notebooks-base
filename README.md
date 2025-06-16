@@ -10,8 +10,8 @@ Notebooks for the DataWhys Summer Internship.
   - [Data-science-and-the-nature-of-data-PS.ipynb](Data-science-and-the-nature-of-data-PS.ipynb)
 
 **- Plotting**
-    - [Plotting.ipynb](Plotting.ipynb)
-    - [Plotting-PS.ipynb](Plotting-PS.ipynb)
+  - [Plotting.ipynb](Plotting.ipynb)
+  - [Plotting-PS.ipynb](Plotting-PS.ipynb)
 
 **- Descriptive stats**
   - [Descriptive-statistics.ipynb](Descriptive-statistics.ipynb)
