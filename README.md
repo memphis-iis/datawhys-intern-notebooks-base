@@ -6,21 +6,21 @@ Notebooks for the DataWhys Summer Internship.
   - [Getting around](https://youtu.be/-luPzplPDI0)
   
 **- Data science and the nature of data**
-    "  - [Data-science-and-the-nature-of-data.ipynb](Data-science-and-the-nature-of-data.ipynb)\n",
-    "  - [Data-science-and-the-nature-of-data-PS.ipynb](Data-science-and-the-nature-of-data-PS.ipynb)\n",
-    "- ~~Plotting~~\n",
-    "  - [Plotting.ipynb](Plotting.ipynb)\n",
-    "  - [Plotting-PS.ipynb](Plotting-PS.ipynb)\n",
-    "- Descriptive stats  \n",
-    "  - [Descriptive-statistics.ipynb](Descriptive-statistics.ipynb)\n",
-    "  - [Descriptive-statistics-PS.ipynb](Descriptive-statistics-PS.ipynb)\n",
-    "- Measures of association  \n",
-    "  - [Measures-of-association.ipynb](Measures-of-association.ipynb)\n",
-    "  - [Measures-of-association-PS.ipynb](Measures-of-association-PS.ipynb)\n",
-    "- Clustering  \n",
-    "  - [Clustering.ipynb](Clustering.ipynb)\n",
-    "  - [Clustering-PS.ipynb](Clustering-PS.ipynb)\n",
-    "- KNN classification  \n",
+  - [Data-science-and-the-nature-of-data.ipynb](Data-science-and-the-nature-of-data.ipynb)
+  - [Data-science-and-the-nature-of-data-PS.ipynb](Data-science-and-the-nature-of-data-PS.ipynb)
+**- Plotting**
+    - [Plotting.ipynb](Plotting.ipynb)
+    - [Plotting-PS.ipynb](Plotting-PS.ipynb)
+**- Descriptive stats**
+  - [Descriptive-statistics.ipynb](Descriptive-statistics.ipynb)
+  - [Descriptive-statistics-PS.ipynb](Descriptive-statistics-PS.ipynb)
+**- Measures of association**
+    - [Measures-of-association.ipynb](Measures-of-association.ipynb)
+    - [Measures-of-association-PS.ipynb](Measures-of-association-PS.ipynb)
+**- Clustering***
+  - [Clustering.ipynb](Clustering.ipynb)
+  - [Clustering-PS.ipynb](Clustering-PS.ipynb)
+**- KNN classification  \n",
     "  - [KNN-classification.ipynb](KNN-classification.ipynb)\n",
     "  - [KNN-classification-PS.ipynb](KNN-classification-PS.ipynb)\n",
     "- KNN regression  \n",
