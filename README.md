@@ -18,8 +18,8 @@ Notebooks for the DataWhys Summer Internship.
   - [Descriptive-statistics-PS.ipynb](Descriptive-statistics-PS.ipynb)
 
 **- Measures of association**
-    - [Measures-of-association.ipynb](Measures-of-association.ipynb)
-    - [Measures-of-association-PS.ipynb](Measures-of-association-PS.ipynb)
+  - [Measures-of-association.ipynb](Measures-of-association.ipynb)
+  - [Measures-of-association-PS.ipynb](Measures-of-association-PS.ipynb)
 
 **- Clustering***
   - [Clustering.ipynb](Clustering.ipynb)
